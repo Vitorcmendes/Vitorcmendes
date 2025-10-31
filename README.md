@@ -2,7 +2,7 @@
 
 - 🎓 Sou formado em Ciências Contábeis pela Universidade Federal do Rio Grande do Sul
 - 📚 Estou fazendo graduação em Análise e Desenvolvimento de Sistemas no Instituo Federal do Rio Grande do Sul - IFRS Campus POA
-- ✏️ Estou estudando atualemente SQL, Python and JAVA
+- ✏️ Estou estudando atualemente SQL, Python e JAVA
 - 🤔 Também tenho interesse em aprender as tecnologias do momento como agentes de IA, TypeScrip e Go
 - 🎯 Tenho por objetivos usar a programação para potencializar as capacidades que já possuo, agregar  valor e contribuir para o desenvolvimento do ambiente onde estiver inserido.<br><br>
 
@@ -27,6 +27,6 @@
   <a href = "decastromendesv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/vitor-mendes-05b6a0372" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>

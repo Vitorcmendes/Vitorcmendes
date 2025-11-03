@@ -2,7 +2,7 @@
 
 - 🎓 Sou formado em Ciências Contábeis pela Universidade Federal do Rio Grande do Sul
 - 📚 Estou fazendo graduação em Análise e Desenvolvimento de Sistemas no Instituo Federal do Rio Grande do Sul - IFRS Campus POA
-- ✏️ Estou estudando atualemente SQL, Python e JAVA
+- ✏️ Estou estudando atualmente SQL, Python e JAVA
 - 🤔 Também tenho interesse em aprender as tecnologias do momento como agentes de IA, TypeScript e Go
 - 🎯 Tenho por objetivos usar a programação para potencializar as capacidades que já possuo, agregar  valor e contribuir para o desenvolvimento do ambiente onde estiver inserido.<br><br>
 

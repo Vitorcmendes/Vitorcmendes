@@ -1,6 +1,6 @@
 name: Update GitHub Stats Images
 
-# 🚀 Este workflow só roda manualmente
+# 🚀 Este workflow só roda manualmentee
 on:
   workflow_dispatch:
 

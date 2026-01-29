@@ -4,23 +4,13 @@
 - 📚 Estou fazendo graduação em Análise e Desenvolvimento de Sistemas no Instituo Federal do Rio Grande do Sul - IFRS Campus POA
 - ✏️ Estou estudando atualmente SQL, Python e JavaScript
 - 🤔 Também tenho interesse em aprender as tecnologias do momento como agentes de IA, TypeScript e Go
-- 🎯 Tenho por objetivos usar a programação para potencializar as capacidades que já possuo, agregar  valor e contribuir para o desenvolvimento do ambiente onde estiver inserido.<br><br>
+- 🎯 Tenho por objetivos usar a programação para potencializar as capacidades que já possuo, agregar  valor e contribuir para o desenvolvimento do ambiente onde estiver inserido.<br>
 
-[![Vitorcmendes GitHub stats](https://github-readme-stats-git-master-vitor-de-castro-mendes-projects.vercel.app/api?username=Vitorcmendes&show_icons=true&theme=dracula&count_private=true)](https://github.com/Vitorcmendes)
-[![Top Langs](https://github-readme-stats-git-master-vitor-de-castro-mendes-projects.vercel.app/api/top-langs/?username=Vitorcmendes&layout=compact&langs_count=6&theme=dracula&cache_seconds=1800)](https://github.com/Vitorcmendes)
-
-<!-- <div align="center">
-  <a href="https://github.com/Vitorcmendes">
-    <img height="180em" align="center" src="https://github-readme-stats-git-master-vitor-de-castro-mendes-projects.vercel.app/api?username=Vitorcmendes&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800"/>&nbsp;
-    <img height="180em" align="center" src="https://github-readme-stats-git-master-vitor-de-castro-mendes-projects.vercel.app/api/top-langs/?username=Vitorcmendes&layout=compact&langs_count=6&theme=dracula&cache_seconds=1800"/>
-  </a>
-</div> -->
-
-<!-- <div align="center">
+ <div align="center">
   <a href="https://github.com/Vitorcmendes">
     <img height="180em" src="https://github-readme-stats-git-master-vitor-de-castro-mendes-projects.vercel.app/api?username=Vitorcmendes&show_icons=true&theme=dracula&count_private=true"/><img height="180em" src="https://github-readme-stats-git-master-vitor-de-castro-mendes-projects.vercel.app/api/top-langs/?username=Vitorcmendes&layout=compact&langs_count=6&theme=dracula&cache_seconds=3600"/>
   </a>
-</div> -->
+</div>
 
 ##
 

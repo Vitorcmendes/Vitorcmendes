@@ -1,7 +1,7 @@
 name: Update GitHub Stats Images
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:  # só roda quando você clicar em "Run workflow"
 
 permissions:
   contents: write
@@ -21,16 +21,16 @@ jobs:
           # Corrige política de segurança do ImageMagick
           sudo sed -i 's/disable ghostscript format types/enable ghostscript format types/' /etc/ImageMagick-6/policy.xml || true
 
-      - name: Baixar SVGs da sua instância
+      - name: Baixar SVGs da sua instância (Production)
         run: |
           mkdir -p assets/github-stats
           USER_AGENT="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-          echo "Baixando estatísticas..."
-          curl -f -L -A "$USER_AGENT" "https://github-readme-stats-vitor-de-castro-mendes-projects.vercel.app/api?username=Vitorcmendes&show_icons=true&theme=dracula&count_private=true" -o assets/github-stats/stats.svg
-          echo "Baixando linguagens..."
-          curl -f -L -A "$USER_AGENT" \
-"https://github-readme-stats-vitor-de-castro-mendes-projects.vercel.app/api/top-langs/?username=Vitorcmendes&layout=compact&langs_count=6&theme=dracula" \
--o assets/github-stats/langs.svg
+
+          echo "Baixando estatísticas gerais..."
+          curl -f -L -A "$USER_AGENT" "https://github-readme-stats-vitor-de-castro-mendes-projects.vercel.app/api?username=Vitorcmendes&show_icons=true&theme=dracula&count_private=true" -o assets/github-stats/stats.svg || (echo "Falha ao baixar stats.svg" && exit 1)
+
+          echo "Baixando linguagens mais usadas..."
+          curl -f -L -A "$USER_AGENT" "https://github-readme-stats-vitor-de-castro-mendes-projects.vercel.app/api/top-langs/?username=Vitorcmendes&layout=compact&langs_count=6&theme=dracula" -o assets/github-stats/langs.svg || (echo "Falha ao baixar langs.svg" && exit 1)
 
           echo "Prévia do arquivo stats.svg:"
           head -n 5 assets/github-stats/stats.svg

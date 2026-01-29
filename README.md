@@ -6,12 +6,15 @@
 - 🤔 Também tenho interesse em aprender as tecnologias do momento como agentes de IA, TypeScript e Go
 - 🎯 Tenho por objetivos usar a programação para potencializar as capacidades que já possuo, agregar  valor e contribuir para o desenvolvimento do ambiente onde estiver inserido.<br><br>
 
-<div align="center">
+[![Vitorcmendes GitHub stats](https://github-readme-stats-git-master-vitor-de-castro-mendes-projects.vercel.app/api?username=Vitorcmendes&show_icons=true&theme=dracula&count_private=true)](https://github.com/Vitorcmendes)
+[![Top Langs](https://github-readme-stats-git-master-vitor-de-castro-mendes-projects.vercel.app/api/top-langs/?username=Vitorcmendes&layout=compact&langs_count=6&theme=dracula&cache_seconds=1800)](https://github.com/Vitorcmendes)
+
+<!-- <div align="center">
   <a href="https://github.com/Vitorcmendes">
     <img height="180em" align="center" src="https://github-readme-stats-git-master-vitor-de-castro-mendes-projects.vercel.app/api?username=Vitorcmendes&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800"/>&nbsp;
     <img height="180em" align="center" src="https://github-readme-stats-git-master-vitor-de-castro-mendes-projects.vercel.app/api/top-langs/?username=Vitorcmendes&layout=compact&langs_count=6&theme=dracula&cache_seconds=1800"/>
   </a>
-</div>
+</div> -->
 
 <!-- <div align="center">
   <a href="https://github.com/Vitorcmendes">

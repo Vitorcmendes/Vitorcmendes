@@ -1,7 +1,7 @@
 name: Update GitHub Stats Images
 
 on:
-  workflow_dispatch:  # só roda quando você clicar em "Run workflow"
+  workflow_dispatch:  # roda manualmente
 
 permissions:
   contents: write
@@ -17,9 +17,7 @@ jobs:
       - name: Instalar dependências
         run: |
           sudo apt-get update
-          sudo apt-get install -y imagemagick curl
-          # Corrige política de segurança do ImageMagick
-          sudo sed -i 's/disable ghostscript format types/enable ghostscript format types/' /etc/ImageMagick-6/policy.xml || true
+          sudo apt-get install -y librsvg2-bin curl
 
       - name: Baixar SVGs da sua instância (Public)
         run: |
@@ -36,10 +34,10 @@ jobs:
           "https://github-readme-stats-vitor-de-castro-mendes-projects.vercel.app/api/top-langs/?username=Vitorcmendes&layout=compact&langs_count=6&theme=dracula" \
           -o assets/github-stats/langs.svg || (echo "Falha ao baixar langs.svg" && exit 1)
 
-      - name: Converter SVG para PNG
+      - name: Converter SVG para PNG usando rsvg-convert
         run: |
-          convert -background none assets/github-stats/stats.svg assets/github-stats/stats.png
-          convert -background none assets/github-stats/langs.svg assets/github-stats/langs.png
+          rsvg-convert -w 800 -h 250 assets/github-stats/stats.svg -o assets/github-stats/stats.png
+          rsvg-convert -w 400 -h 150 assets/github-stats/langs.svg -o assets/github-stats/langs.png
 
       - name: Verificar se houve mudança nas imagens
         id: check_changes

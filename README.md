@@ -6,10 +6,17 @@
 - 🤔 Também tenho interesse em aprender as tecnologias do momento como agentes de IA, TypeScript e Go
 - 🎯 Tenho por objetivos usar a programação para potencializar as capacidades que já possuo, agregar  valor e contribuir para o desenvolvimento do ambiente onde estiver inserido.<br>
 
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/github-stats/stats.png" height="180em" />
   <img src="./assets/github-stats/langs.png" height="180em" />
-</p>
+</p> -->
+
+<div align="center">
+  <a href="https://github.com/Vitorcmendes">
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vitorcmendes&layout=compact&langs_count=6&theme=dracula&cache_seconds=3600&v=2"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vitorcmendes&layout=compact&langs_count=6&theme=dracula&cache_seconds=3600&v=2"/>
+ </a>
+</div>
 
 
 <!-- <div align="center">

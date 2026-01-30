@@ -13,8 +13,8 @@
 
 <div align="center">
   <a href="https://github.com/Vitorcmendes">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vitorcmendes&layout=compact&langs_count=6&theme=dracula&cache_seconds=3600&v=2"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vitorcmendes&layout=compact&langs_count=6&theme=dracula&cache_seconds=3600&v=2"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vitorcmendes&layout=compact&langs_count=6&theme=dracula&cache_seconds=3600&v=3"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vitorcmendes&layout=compact&langs_count=6&theme=dracula&cache_seconds=3600&v=3"/>
  </a>
 </div>
 

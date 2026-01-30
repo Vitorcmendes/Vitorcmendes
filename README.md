@@ -17,8 +17,8 @@
 
  <div align="center">
   <a href="https://github.com/Vitorcmendes">
-    <img height="180em" src="https://github-readme-stats-git-master-vitor-de-castro-mendes-projects.vercel.app/api?username=Vitorcmendes&show_icons=true&theme=dracula&count_private=true&cache_seconds=21600&v=3"/>
-   <img height="180em" src="https://github-readme-stats-git-master-vitor-de-castro-mendes-projects.vercel.app/api/top-langs/?username=Vitorcmendes&layout=compact&langs_count=10&theme=dracula&cache_seconds=21600&v=3"/>
+    <img height="180em" src="https://github-readme-stats-git-master-vitor-de-castro-mendes-projects.vercel.app/api?username=Vitorcmendes&show_icons=true&theme=dracula&count_private=true&cache_seconds=15&v=3"/>
+   <img height="180em" src="https://github-readme-stats-git-master-vitor-de-castro-mendes-projects.vercel.app/api/top-langs/?username=Vitorcmendes&layout=compact&langs_count=10&theme=dracula&cache_seconds=15&v=3"/>
   </a>
 </div> 
 
